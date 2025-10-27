@@ -14,7 +14,7 @@ const BookForm: React.FC<Props> = ({ selectedBook, onDone }) => {
   const [author, setAuthor] = useState('');
   const [price, setPrice] = useState<number>(0);
   const [isUpdating, setIsUpdating] = useState(false);
-
+  
   useEffect(() => {
     if (selectedBook) {
       setTitle(selectedBook.title);
