@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\graphql\\bookmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\graphql\\bookmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\graphql\\bookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\graphql\\bookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\healthcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\healthcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\aspnetuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\aspnetuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\userprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\userprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\userstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\userstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\applicationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\applicationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\aspnetroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\aspnetroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\aspnetrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\aspnetrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\aspnetuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\aspnetuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|c:\\users\\sahilmohapatra\\source\\repos\\booksmanagement\\booksmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{810C3E76-48D8-419E-90E2-3554E06EC6D2}|BooksManagement\\BooksManagement.csproj|solutionrelative:booksmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookQuery.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\GraphQL\\BookQuery.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\GraphQL\\BookQuery.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\GraphQL\\BookQuery.cs",
+              "RelativeToolTip": "BooksManagement\\GraphQL\\BookQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:25:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookMutation.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\GraphQL\\BookMutation.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\GraphQL\\BookMutation.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\GraphQL\\BookMutation.cs",
+              "RelativeToolTip": "BooksManagement\\GraphQL\\BookMutation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:25:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\appsettings.json",
+              "RelativeToolTip": "BooksManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T06:16:21.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Program.cs",
+              "RelativeToolTip": "BooksManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:15:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthContext.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\HealthContext.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\HealthContext.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\HealthContext.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\HealthContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:24:10.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AspNetUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUserLogin.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\AspNetUserLogin.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUserLogin.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\AspNetUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:21:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\User.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Review.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:03:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\UserProgram.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\UserProgram.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\UserProgram.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\UserProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:20:29.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\UsersTable.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\UsersTable.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\UsersTable.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\UsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:20:31.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\Form.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Form.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\Form.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:24.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Enrollment.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Book.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:24:23.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AspNetUserToken.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUserToken.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\AspNetUserToken.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUserToken.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\AspNetUserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:58:48.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\Department.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:23.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationError.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\ApplicationError.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\ApplicationError.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\ApplicationError.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\ApplicationError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:07:55.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AspNetRoleClaim.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetRoleClaim.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\AspNetRoleClaim.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetRoleClaim.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\AspNetRoleClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:21:40.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AspNetRole.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetRole.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\AspNetRole.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetRole.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\AspNetRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:07:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AspNetUserClaim.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUserClaim.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\AspNetUserClaim.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUserClaim.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\AspNetUserClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:20:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "BooksManagement\\Models\\AspNetUser.cs",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\Models\\AspNetUser.cs",
+              "RelativeToolTip": "BooksManagement\\Models\\AspNetUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:08:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BooksManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\appsettings.Development.json",
+              "RelativeToolTip": "BooksManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T12:34:57.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
