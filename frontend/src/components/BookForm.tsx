@@ -99,12 +99,6 @@ const BookForm: React.FC<Props> = ({ selectedBook, onDone }) => {
  </Button>
 
 
-<h1>Update Book</h1>
-<p>Here we can update the book</p>
-<Button>Click Update</Button>
-<h1>Updation</h1>
-<p>Update the Book</p>
-
 
 </Stack>
 </form>
