@@ -1,4 +1,5 @@
-﻿using BooksManagement.Models;
+﻿
+using BooksManagement.Models;
 
 namespace BooksManagement.GraphQL
 {

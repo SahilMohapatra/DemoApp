@@ -1,35 +1,49 @@
+using System;
 using BooksManagement.GraphQL;
 using BooksManagement.Models;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
+using BooksManagement.Validators;
+using BooksManagement.GraphQL.Mutations;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-var provider = builder.Services.BuildServiceProvider();
+builder.Services.AddDbContext<HealthContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-var config = provider.GetRequiredService<IConfiguration>();
 
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
-builder.Services.AddDbContext<HealthContext>(item => item.UseSqlServer(config.GetConnectionString("dbcs")));
 
 builder.Services
     .AddGraphQLServer()
     .AddQueryType<BookQuery>()
-    .AddMutationType<BookMutation>()
+    .AddMutationType(d => d.Name("Mutation")) 
+        .AddTypeExtension<BookMutation>()     
+        .AddTypeExtension<ReviewMutation>()   
     .AddProjections()
     .AddFiltering()
     .AddSorting();
 
+
+builder.Services.AddValidatorsFromAssemblyContaining<ReviewValidator>();
+
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReact",
-        policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
-}
-);
+        policy => policy.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+});
+
 
 var app = builder.Build();
 
-app.UseCors("AllowReact");
 
+app.UseCors("AllowReact");
 app.MapGraphQL();
+
 
 app.Run();

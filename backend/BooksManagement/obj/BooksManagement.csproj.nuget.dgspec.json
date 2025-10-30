@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\BooksManagement.csproj": {}
+    "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\backend\\BooksManagement\\BooksManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\BooksManagement.csproj": {
+    "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\backend\\BooksManagement\\BooksManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\BooksManagement.csproj",
+        "projectUniqueName": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\backend\\BooksManagement\\BooksManagement.csproj",
         "projectName": "BooksManagement",
-        "projectPath": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\BooksManagement.csproj",
+        "projectPath": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\backend\\BooksManagement\\BooksManagement.csproj",
         "packagesPath": "C:\\Users\\SahilMohapatra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\BooksManagement\\obj\\",
+        "outputPath": "C:\\Users\\SahilMohapatra\\source\\repos\\BooksManagement\\backend\\BooksManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "HotChocolate.AspNetCore": {
               "target": "Package",
               "version": "[15.1.11, )"
